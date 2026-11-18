@@ -1,2 +1,3 @@
--- hi
+-- simple code
+
 print("hello world")
